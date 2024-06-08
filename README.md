@@ -39,7 +39,7 @@ Para empezar, he aprendido a identificar y comprender las necesidades y expectat
 
 Seguidamente, a partir de dichas personas ficticias y sus respectivos User Journey Maps, he adquirido la capacidad de realizar un Case Study, en el que he analizado y evaluado la usabilidad de una interfaz existente. He aplicado los conocimientos teóricos adquiridos en clase para identificar los problemas de usabilidad y proponer soluciones basadas en los principios de IU/UX/Usabilidad. Tomando como base este Case Study, he aprendido a realizar un análisis heurístico de una interfaz, identificando los problemas de usabilidad y proponiendo mejoras basadas en los principios de IU/UX/Usabilidad. Gracias a eso, he sido capaz de hacer una propuesta de valor para una aplicación nueva. Esto conlleva también el conocimiento de el Análisis de Tareas, la arquitectura de la información y la creación de Wireframes y Mockups. Todo ello en un contexto de diseño centrado en el usuario, teniendo en cuenta las necesidades y expectativas de los usuarios.
 
-<div style="text-align:center">
+<div style="margin-left: 50%">
     <img src="https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Wireframes/EventosEspeciales.png" width="400"/>
 </div>
 
