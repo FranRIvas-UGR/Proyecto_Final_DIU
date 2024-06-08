@@ -39,8 +39,6 @@ Para empezar, he aprendido a identificar y comprender las necesidades y expectat
 
 Seguidamente, a partir de dichas personas ficticias y sus respectivos User Journey Maps, he adquirido la capacidad de realizar un Case Study, en el que he analizado y evaluado la usabilidad de una interfaz existente. He aplicado los conocimientos teóricos adquiridos en clase para identificar los problemas de usabilidad y proponer soluciones basadas en los principios de IU/UX/Usabilidad. Tomando como base este Case Study, he aprendido a realizar un análisis heurístico de una interfaz, identificando los problemas de usabilidad y proponiendo mejoras basadas en los principios de IU/UX/Usabilidad. Gracias a eso, he sido capaz de hacer una propuesta de valor para una aplicación nueva. Esto conlleva también el conocimiento de el Análisis de Tareas, la arquitectura de la información y la creación de Wireframes y Mockups. Todo ello en un contexto de diseño centrado en el usuario, teniendo en cuenta las necesidades y expectativas de los usuarios.
 
-![Wireframe](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Wireframes/EventosEspeciales.png)
-
 <div>
     <img src="https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Wireframes/EventosEspeciales.png" width="400"/>
 </div>
@@ -52,7 +50,6 @@ Me he metido de lleno en la creación de Layouts, esto es el Prototipado y el Mo
 <img src="https://github.com/FranRIvas-UGR/Proyecto_Final_DIU/blob/main/layout.png" width="400" alt="Prototipo"/>
 
 Finalmente, he aprendido a realizar un A/B testing, en el que he comparado dos versiones de una interfaz para evaluar cuál es más efectiva y eficiente en términos de IU/UX/Usabilidad. He aplicado los conocimientos teóricos adquiridos en clase para analizar los resultados del A/B testing y proponer mejoras basadas en los principios de IU/UX/Usabilidad. He aprendido a aplicar metodologías de diseño centrado en el usuario y a comunicar de manera efectiva las mejoras propuestas y justificarlas en función de los principios de IU/UX/Usabilidad. También he aprendido la utilidad de los cuestionarios SUS para evaluar la usabilidad de una interfaz y obtener información valiosa sobre la satisfacción del usuario.
-
 
 <img src="https://github.com/FranRIvas-UGR/DIU/blob/master/P4/Tabla_ID1.png" width="400" alt="Cuestionario SUS A/B Testing"/>
 
