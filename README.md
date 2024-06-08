@@ -87,53 +87,100 @@ Instituto de Biomedicina de Sevilla (IBiS) de la Universidad de Sevilla - https:
 ## Análisis de la Página Web Existente
 
 ### Evaluación del Diseño y Usabilidad
-La página web del Centro de Investigación Biomédica (CIBM) de la Universidad de Granada presenta algunos aspectos positivos, pero también áreas de mejora en términos de diseño y usabilidad. A continuación, se detallan los principales hallazgos:
 
-#### Aspectos Positivos:
-- Diseño visual atractivo y coherente con la temática biomédica.
-- Estructura de navegación clara y jerarquizada.
-- Contenido relevante y actualizado sobre investigaciones y proyectos.
-- Estructura similar a la de otras páginas web de la Universidad de Granada.
-- Colores y tipografías adecuados para la temática biomédica.
-- Diseño Responsive.
+La página web del Centro de Investigación Biomédica (CIBM) de la Universidad de Granada presenta ciertos aspectos positivos, pero también áreas de mejora en términos de diseño y usabilidad. A continuación, se detallan los principales hallazgos:
 
-#### Áreas de Mejora:
-- Falta de información en la página de inicio, simplemente mostrando un menú de navegación.
-- Página aparentemente poco llena, con los elementos centrados.
-- Doble barra de navegación de redes sociales, innecesaria.
-- Falta de elementos visuales para destacar la información más importante y guiar al usuario si es la primera vez que visita la página.
+#### Aspectos Positivos
 
-### Análisis de la Experiencia de Usuario
+**Diseño visual atractivo y coherente con la temática biomédica**:
+La página web utiliza una paleta de colores y tipografías adecuadas que reflejan la temática biomédica, creando una identidad visual consistente y profesional. Este aspecto es crucial para establecer una conexión emocional con los usuarios y transmitir credibilidad.
+
+**Estructura de navegación clara y jerarquizada**:
+La organización del contenido es jerárquica, lo que facilita la localización de la información. Las secciones están bien definidas, permitiendo a los usuarios encontrar lo que buscan sin demasiados clics.
+
+**Contenido relevante y actualizado sobre investigaciones y proyectos**:
+La página ofrece información valiosa y actualizada sobre los proyectos de investigación en curso, publicaciones y eventos. Esto no solo mantiene a los usuarios informados sino que también demuestra el dinamismo y el compromiso del CIBM con la comunidad científica.
+
+**Estructura similar a la de otras páginas web de la Universidad de Granada**:
+La coherencia con el diseño de otras páginas de la universidad ayuda a mantener una identidad corporativa unificada. Los usuarios que visitan diferentes páginas de la universidad encontrarán familiaridad en el diseño, lo cual es positivo para la marca institucional.
+
+**Diseño responsive**:
+La página se adapta adecuadamente a diferentes tamaños de pantalla, garantizando una experiencia de usuario consistente en dispositivos móviles y de escritorio. Esto es esencial en una era donde el acceso a la web a través de dispositivos móviles es predominante.
+
+#### Áreas de Mejora
+
+**Falta de información en la página de inicio**:
+La página de inicio presenta un menú de navegación sin suficiente contenido introductorio, lo que puede resultar poco atractivo para los nuevos visitantes. Incluir una introducción breve sobre el CIBM y sus objetivos puede mejorar la primera impresión.
+
+**Página aparentemente poco llena, con los elementos centrados**:
+El diseño actual deja amplios espacios en blanco y los elementos están centrados, lo que puede dar una sensación de falta de contenido y dinamismo. Un diseño más distribuido y con elementos visuales adicionales podría hacer la página más atractiva.
+
+**Doble barra de navegación de redes sociales, innecesaria**:
+La presencia de dos barras de navegación para redes sociales puede resultar redundante y confusa para los usuarios. Consolidar esta funcionalidad en una única barra optimizaría el diseño y reduciría el desorden visual.
+
+**Falta de elementos visuales para destacar la información más importante y guiar al usuario**:
+La página carece de elementos visuales que atraigan la atención hacia la información clave, lo que dificulta la navegación intuitiva, especialmente para los nuevos visitantes. La utilización de gráficos, iconos y secciones destacadas puede guiar mejor a los usuarios.
+
+## Análisis de la Experiencia de Usuario
+
 Para comprender mejor la experiencia de los usuarios al interactuar con la página web del CIBM, se realizaron pruebas con usuarios reales. Los principales hallazgos son los siguientes:
 
-- Los usuarios encuentran dificultades para encontrar información específica debido a la falta de una estructura de navegación clara y a la cantidad de información presentada en la página de inicio.
-- Algunos usuarios se sienten abrumados por la dificultad de encontrar información relevante y se muestran frustrados por la falta de elementos visuales que guíen su navegación.
-- Los usuarios esperan una página que les introduzca en la temática biomédica y les muestre de manera clara y concisa la información más relevante, pero se encuentran con una página de inicio que redirige a otras secciones sin ofrecer una visión general.
+**Dificultades para encontrar información específica**:
+Los usuarios experimentaron dificultades para localizar información específica debido a la falta de una estructura de navegación clara y a la cantidad de información presentada en la página de inicio. Esta confusión puede llevar a una alta tasa de abandono.
+
+**Frustración por la falta de elementos visuales**:
+Algunos usuarios se sintieron abrumados y frustrados por la dificultad para encontrar información relevante y por la ausencia de elementos visuales que guíen su navegación. La inclusión de infografías y puntos destacados podría mejorar significativamente esta experiencia.
+
+**Expectativas no satisfechas**:
+Los usuarios esperaban una página que les introdujera en la temática biomédica y les mostrara de manera clara y concisa la información más relevante. Sin embargo, la página de inicio actual redirige a otras secciones sin ofrecer una visión general adecuada. Una sección de resumen o destacados en la página principal podría abordar esta expectativa.
 
 ## Propuesta de Rediseño
 
 ### Objetivos del Rediseño
+
 El objetivo principal del rediseño de la página web del CIBM es mejorar la experiencia de usuario y la usabilidad, facilitando el acceso a la información relevante y promoviendo una navegación intuitiva. Los objetivos específicos son los siguientes:
 
-1. Simplificar la estructura de navegación para facilitar la búsqueda de información.
-2. Mejorar la legibilidad y la accesibilidad del contenido para garantizar una experiencia de usuario óptima.
-3. Incluir elementos visuales relevantes para destacar la información clave y guiar al usuario a través del contenido.
+**Simplificar la estructura de navegación**:
+Facilitar la búsqueda de información al reducir la cantidad de elementos en el menú de navegación y organizarlos en categorías claras. Un menú de navegación bien estructurado reduce la carga cognitiva y mejora la eficiencia de la navegación.
 
+**Mejorar la legibilidad y accesibilidad del contenido**:
+Garantizar una experiencia de usuario óptima mediante el uso de diseños limpios y espacios en blanco para mejorar la legibilidad. La accesibilidad también debe ser priorizada, asegurando que todos los usuarios, independientemente de sus habilidades, puedan interactuar con la página.
+
+**Incluir elementos visuales relevantes**:
+Utilizar imágenes y gráficos para resaltar la información clave y guiar al usuario a través del contenido de manera intuitiva. Elementos visuales bien diseñados no solo mejoran la estética, sino que también facilitan la comprensión de la información.
 
 ### Propuesta de Diseño
 
 #### Diseño de la Estructura de Navegación
-- Reducir el número de elementos en el menú de navegación para evitar la sobrecarga de información.
-- Agrupar las secciones relacionadas en categorías claras y utilizar un diseño de menú desplegable para facilitar la navegación.
+
+**Reducir el número de elementos en el menú de navegación**:
+Simplificar el menú principal para evitar la sobrecarga de información, utilizando un diseño de menú desplegable que agrupe secciones relacionadas en categorías claras. Esto permite una navegación más intuitiva y eficiente.
+
+**Agrupar secciones relacionadas en categorías claras**:
+Utilizar un diseño de menú desplegable para facilitar la navegación y acceso rápido a las secciones más importantes. Por ejemplo, las secciones podrían agruparse bajo categorías como "Investigaciones", "Publicaciones", "Eventos" y "Contacto".
 
 #### Diseño Visual y Elementos Visuales
-- Utilizar una paleta de colores y elementos visuales que reflejen la temática biomédica, pero sin sobrecargar la página.
-- Utilizar imágenes y gráficos relevantes para resaltar la información clave y guiar al usuario a través del contenido.
-- Utilizar espacios en blanco y diseños limpios para mejorar la legibilidad y la comprensión de la información.
+
+**Utilizar una paleta de colores y elementos visuales coherentes**:
+Mantener una paleta de colores que refleje la temática biomédica sin sobrecargar la página. Utilizar elementos visuales como iconos y gráficos para resaltar la información clave.
+
+**Utilizar imágenes y gráficos relevantes**:
+Incorporar imágenes de alta calidad y gráficos informativos que apoyen el contenido textual y guíen la navegación del usuario. Infografías y diagramas pueden ser particularmente útiles para explicar conceptos complejos.
+
+**Utilizar espacios en blanco y diseños limpios**:
+Mejorar la legibilidad y la comprensión de la información mediante el uso de espacios en blanco y diseños minimalistas. Un diseño despejado reduce la carga cognitiva y mejora la experiencia de lectura.
 
 #### Diseño Responsive
-- Crear una versión móvil o adaptativa de la página web para garantizar una experiencia óptima en dispositivos móviles.
-- Utilizar un diseño de respuesta fluida que se adapte al tamaño de pantalla y garantice una navegación fácil y sin problemas.
+
+**Crear una versión móvil adaptativa**:
+Desarrollar una versión móvil de la página web para garantizar una experiencia óptima en dispositivos móviles, utilizando un diseño de respuesta fluida que se adapte al tamaño de pantalla. Esto incluye optimizar las imágenes y simplificar la navegación para pantallas más pequeñas.
+
+**Utilizar un diseño de respuesta fluida**:
+Asegurar que la página web se ajuste de manera adecuada a diferentes tamaños de pantalla, garantizando una navegación fácil y sin problemas en todos los dispositivos. Las pruebas de usabilidad en múltiples dispositivos son esenciales para verificar esta adaptabilidad.
+
+## Conclusión
+
+El rediseño de la página web del Centro de Investigación Biomédica (CIBM) busca mejorar la experiencia de usuario y la usabilidad mediante una estructura de navegación simplificada, una mejor legibilidad y accesibilidad del contenido, y la inclusión de elementos visuales relevantes. Al aplicar estos cambios, se espera que los usuarios puedan acceder a la información de manera más intuitiva y eficiente.
 
 ### Conclusiones y Autoevaluación
 En este caso de estudio, he aplicado los conocimientos y principios de IU/UX/Usabilidad para analizar y proponer mejoras en la página web del Centro de Investigación Biomédica (CIBM) de la Universidad de Granada. A través del análisis realizado, identifiqué áreas de mejora en el diseño y usabilidad de la página web existente y propuse una serie de cambios para abordar estos problemas.
