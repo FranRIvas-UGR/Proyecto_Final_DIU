@@ -6,7 +6,7 @@ readme2.md
         }
         .image-container img {
             flex: 1;
-            max-width: 33%;
+            max-width: 250;
             height: auto;
         }
 </style>
