@@ -42,7 +42,7 @@ Seguidamente, a partir de dichas personas ficticias y sus respectivos User Journ
 <div>
     <img src="https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Wireframes/EventosEspeciales.png" width="300" />
     <img src="https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Wireframes/Sesiones.png" width="300" />
-    <img src="https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Wireframes/PaginaPrincipal.png" width="300" height="300/>
+    <img src="https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Wireframes/PaginaPrincipal.png" width="300" height="200/>
 </div>
 
 ![Mockup](https://www.uxpin.com/studio/wp-content/uploads/2016/07/Mockup-Template-1.png)
