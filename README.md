@@ -75,8 +75,12 @@ inuación, presentaré mi propuesta de caso de estudio:
 ### Página web de investigación seleccionada:
 Centro de Investigación Biomédica (CIBM) de la UGR - https://cibm.ugr.es/
 
+<img src="https://github.com/FranRIvas-UGR/Proyecto_Final_DIU/blob/main/web1.png" width="200" height="auto" alt="Página Web CIB Granada"/>
+
 ### Página web de otro centro de investigación similar:
 Instituto de Biomedicina de Sevilla (IBiS) de la Universidad de Sevilla - https://www.ibis-sevilla.es/
+
+<img src="https://github.com/FranRIvas-UGR/Proyecto_Final_DIU/blob/main/web2.png" width="200" height="auto" alt="Página Web IBiS"/>
 
 # Propuesta de Rediseño de la Página Web del Centro de Investigación Biomédica (CIBM)
 
