@@ -34,6 +34,9 @@ Para empezar, he aprendido a identificar y comprender las necesidades y expectat
 
 ![Persona Ficticia](https://github.com/FranRIvas-UGR/DIU/blob/master/P1/Persona%20%26%20User%20Journey%20Map%20%232.pdf)
 
+<div>
+    <img src="https://github.com/FranRIvas-UGR/DIU/blob/master/P1/Persona%20%26%20User%20Journey%20Map%20%232.pdf" width="400"/>
+</div>
 ![User Journey Map](https://www.uxpin.com/studio/wp-content/uploads/2016/07/User-Journey-Map-Template-1.png)
 
 Seguidamente, a partir de dichas personas ficticias y sus respectivos User Journey Maps, he adquirido la capacidad de realizar un Case Study, en el que he analizado y evaluado la usabilidad de una interfaz existente. He aplicado los conocimientos teóricos adquiridos en clase para identificar los problemas de usabilidad y proponer soluciones basadas en los principios de IU/UX/Usabilidad. Tomando como base este Case Study, he aprendido a realizar un análisis heurístico de una interfaz, identificando los problemas de usabilidad y proponiendo mejoras basadas en los principios de IU/UX/Usabilidad. Gracias a eso, he sido capaz de hacer una propuesta de valor para una aplicación nueva. Esto conlleva también el conocimiento de el Análisis de Tareas, la arquitectura de la información y la creación de Wireframes y Mockups. Todo ello en un contexto de diseño centrado en el usuario, teniendo en cuenta las necesidades y expectativas de los usuarios.
@@ -44,7 +47,7 @@ Seguidamente, a partir de dichas personas ficticias y sus respectivos User Journ
 
 Me he metido de lleno en la creación de Layouts, esto es el Prototipado y el Mockup de la app. He aprendido a utilizar herramientas como Figma para crear prototipos interactivos y mockups de interfaces de usuario. He aplicado los principios de IU/UX/Usabilidad para diseñar interfaces intuitivas y fáciles de usar, teniendo en cuenta las necesidades y expectativas de los usuarios. Además, he aprendido a realizar pruebas de usabilidad con usuarios reales para evaluar la eficacia y eficiencia de los prototipos y recopilar datos cualitativos y cuantitativos que me permitan identificar áreas de mejora y realizar ajustes en el diseño para mejorar la experiencia del usuario. He aprendido todo lo que es el diseño de cada una de las pantallas de una app, desde lo que es la apariencia visual hasta la interacción con el usuario.
 
-![Prototipo](https://github.com/FranRIvas-UGR/Proyecto_Final_DIU/blob/main/Layout.png)
+![Prototipo](https://github.com/FranRIvas-UGR/Proyecto_Final_DIU/blob/main/layout.png)
 
 Finalmente, he aprendido a realizar un A/B testing, en el que he comparado dos versiones de una interfaz para evaluar cuál es más efectiva y eficiente en términos de IU/UX/Usabilidad. He aplicado los conocimientos teóricos adquiridos en clase para analizar los resultados del A/B testing y proponer mejoras basadas en los principios de IU/UX/Usabilidad. He aprendido a aplicar metodologías de diseño centrado en el usuario y a comunicar de manera efectiva las mejoras propuestas y justificarlas en función de los principios de IU/UX/Usabilidad. También he aprendido la utilidad de los cuestionarios SUS para evaluar la usabilidad de una interfaz y obtener información valiosa sobre la satisfacción del usuario.
 
