@@ -34,14 +34,16 @@ Para empezar, he aprendido a identificar y comprender las necesidades y expectat
 
 ![Persona Ficticia](https://github.com/FranRIvas-UGR/DIU/blob/master/P1/Persona%20%26%20User%20Journey%20Map%20%232.pdf)
 
-<div>
-    <img src="https://github.com/FranRIvas-UGR/DIU/blob/master/P1/Persona%20%26%20User%20Journey%20Map%20%232.pdf" width="400"/>
-</div>
+
 ![User Journey Map](https://www.uxpin.com/studio/wp-content/uploads/2016/07/User-Journey-Map-Template-1.png)
 
 Seguidamente, a partir de dichas personas ficticias y sus respectivos User Journey Maps, he adquirido la capacidad de realizar un Case Study, en el que he analizado y evaluado la usabilidad de una interfaz existente. He aplicado los conocimientos teóricos adquiridos en clase para identificar los problemas de usabilidad y proponer soluciones basadas en los principios de IU/UX/Usabilidad. Tomando como base este Case Study, he aprendido a realizar un análisis heurístico de una interfaz, identificando los problemas de usabilidad y proponiendo mejoras basadas en los principios de IU/UX/Usabilidad. Gracias a eso, he sido capaz de hacer una propuesta de valor para una aplicación nueva. Esto conlleva también el conocimiento de el Análisis de Tareas, la arquitectura de la información y la creación de Wireframes y Mockups. Todo ello en un contexto de diseño centrado en el usuario, teniendo en cuenta las necesidades y expectativas de los usuarios.
 
 ![Wireframe](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Wireframes/EventosEspeciales.png)
+
+<div>
+    <img src="https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Wireframes/EventosEspeciales.png" width="400"/>
+</div>
 
 ![Mockup](https://www.uxpin.com/studio/wp-content/uploads/2016/07/Mockup-Template-1.png)
 
