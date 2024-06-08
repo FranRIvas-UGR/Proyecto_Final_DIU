@@ -32,7 +32,7 @@ Empezando por la creación de Personas ficticias y User Journey Maps hasta reali
 
 Para empezar, he aprendido a identificar y comprender las necesidades y expectativas de los usuarios a través de la creación de Personas ficticias y User Journey Maps. Estas herramientas me han permitido visualizar y comprender las características, comportamientos y motivaciones de los usuarios, lo que me ha ayudado a diseñar interfaces que se adapten a sus necesidades y expectativas.
 
-![Persona Ficticia](https://www.uxpin.com/studio/wp-content/uploads/2016/07/Persona-Template-1.png)
+![Persona Ficticia](https://github.com/FranRIvas-UGR/DIU/blob/master/P1/Persona%20%26%20User%20Journey%20Map%20%232.pdf)
 
 ![User Journey Map](https://www.uxpin.com/studio/wp-content/uploads/2016/07/User-Journey-Map-Template-1.png)
 
