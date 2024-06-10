@@ -164,7 +164,7 @@ Utilizar un diseño de menú desplegable para facilitar la navegación y acceso 
 **Utilizar una paleta de colores y elementos visuales coherentes**:
 Mantener una paleta de colores que refleje la temática biomédica sin sobrecargar la página. Utilizar elementos visuales como iconos y gráficos para resaltar la información clave.
 
-<img src="https://github.com/FranRIvas-UGR/Proyecto_Final_DIU/blob/main/moodboard.png" width="400" alt="Moodboard"/>
+<img src="https://github.com/FranRIvas-UGR/Proyecto_Final_DIU/blob/main/moodboard.png" width="800" alt="Moodboard"/>
 
 **Utilizar imágenes y gráficos relevantes**:
 Incorporar imágenes de alta calidad y gráficos informativos que apoyen el contenido textual y guíen la navegación del usuario. Infografías y diagramas pueden ser particularmente útiles para explicar conceptos complejos.
