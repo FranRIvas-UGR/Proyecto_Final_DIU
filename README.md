@@ -139,22 +139,24 @@ Los usuarios esperaban una página que les introdujera en la temática biomédic
 Para comparar la página web del CIBM con la del Instituto de Biomedicina de Sevilla (IBiS), se identificaron las siguientes similitudes y diferencias:
 
 **Similitudes**:
-- Ambas páginas web tienen una estructura de navegación clara y jerarquizada, lo que facilita la localización de la información. Además, 
+- **Ambas páginas web tienen una estructura de navegación clara y jerarquizada**, lo que facilita la localización de la información. Esto es fundamental para garantizar una experiencia de usuario eficiente y satisfactoria.
 
-- Ambas páginas utilizan una paleta de colores y tipografías coherentes con la temática biomédica, lo que crea una identidad visual consistente y profesional.
+- **Ambas páginas utilizan una paleta de colores y tipografías coherentes con la temática biomédica**, lo que crea una identidad visual consistente y profesional.
 
-- Ambas páginas web ofrecen contenido relevante y actualizado sobre investigaciones y proyectos, lo que mantiene a los usuarios informados y demuestra el compromiso con la comunidad científica.
+- **Ambas páginas web ofrecen contenido relevante y actualizado sobre investigaciones y proyectos**, lo que mantiene a los usuarios informados y demuestra el compromiso con la comunidad científica.
 
-- Ambas páginas web son responsive, adaptándose adecuadamente a diferentes tamaños de pantalla para garantizar una experiencia de usuario consistente en dispositivos móviles y de escritorio.
+- **Ambas páginas web son responsive**, adaptándose adecuadamente a diferentes tamaños de pantalla para garantizar una experiencia de usuario consistente en dispositivos móviles y de escritorio.
 
 **Diferencias**:
-- La página web del IBiS presenta una página de inicio más dinámica y visualmente atractiva, con elementos visuales que destacan la información clave y guían al usuario. Por otro lado, la página web del CIBM carece de elementos visuales que atraigan la atención y faciliten la navegación, lo que puede resultar en una experiencia de usuario menos satisfactoria.
 
-- La página web del IBiS incluye una sección de noticias y eventos en la página de inicio, lo que proporciona a los usuarios una visión general de las actividades y novedades del instituto. En contraste, la página web del CIBM carece de una sección similar, lo que puede limitar la interacción y el compromiso de los usuarios con el contenido.
+- **La página web del IBiS presenta una página de inicio más dinámica y visualmente atractiva**, con elementos visuales que destacan la información clave y guían al usuario. Por otro lado, la página web del **CIBM carece de elementos visuales** que atraigan la atención y faciliten la navegación, lo que puede resultar en una experiencia de usuario menos satisfactoria.
 
-- La página web del IBiS utiliza una estructura de navegación más intuitiva y visual, con elementos gráficos y secciones destacadas que facilitan la localización de la información. Por el contrario, la página web del CIBM presenta una estructura de navegación menos clara y visual, lo que puede resultar en una experiencia de usuario menos eficiente y satisfactoria.
+- **La página web del IBiS incluye una sección de noticias y eventos en la página de inicio**, lo que proporciona a los usuarios una visión general de las actividades y novedades del instituto. En contraste, la página web del **CIBM carece de una sección similar**, lo que puede limitar la interacción y el compromiso de los usuarios con el contenido.
 
-- La página web del IBiS tiene una barra de navegación de redes sociales más sencilla y coherente, lo que evita la redundancia y la confusión para los usuarios. En cambio, la página web del CIBM presenta una doble barra de navegación de redes sociales, lo que puede resultar en una experiencia de usuario menos clara y eficiente.
+- **La página web del IBiS utiliza una estructura de navegación más intuitiva y visual**, con elementos gráficos y secciones destacadas que facilitan la localización de la información. Por el contrario, la página web del **CIBM presenta una estructura de navegación menos clara y visual**, lo que puede resultar en una experiencia de usuario menos eficiente y satisfactoria.
+
+- **La página web del IBiS tiene una barra de navegación de redes sociales más sencilla y coherente**, lo que evita la redundancia y la confusión para los usuarios. En cambio, la página web del **CIBM presenta una doble barra de navegación de redes sociales**, lo que puede resultar en una experiencia de usuario menos clara y eficiente.
+
 
 ## Propuesta de Rediseño
 
