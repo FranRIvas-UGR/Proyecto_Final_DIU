@@ -1,8 +1,7 @@
-readme2.md
+# Trabajo Final de DIU
+#### Francisco de Asís Rivas Fernández
 
-# Trabajo Final de UI/UX/Usabilidad
-
-## PARTE I: MI EXPERIENCIA UX
+## PARTE I: MI EXPERIENCIA en Diseño de Interfaces de Usuario
 
 Mi experiencia en IU/UX/Usabilidad ha sido enriquecedora y he adquirido competencias importantes a lo largo de la asignatura. A continuación, destaco mis contribuciones y aportaciones en diferentes contextos:
 
