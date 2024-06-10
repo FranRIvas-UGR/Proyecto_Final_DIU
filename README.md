@@ -205,7 +205,7 @@ Desarrollar una versión móvil de la página web para garantizar una experienci
 Asegurar que la página web se ajuste de manera adecuada a diferentes tamaños de pantalla, garantizando una navegación fácil y sin problemas en todos los dispositivos. Las pruebas de usabilidad en múltiples dispositivos son esenciales para verificar esta adaptabilidad.
 Si la respuesta no es fluida, el usuario puede sentirse frustrado y abandonar la página, por lo que es importante que la página web se adapte a cualquier dispositivo.
 
-<img src="https://github.com/FranRIvas-UGR/Proyecto_Final_DIU/blob/main/responsive.png" width="400" alt="Responsive"/>
+<img src="https://github.com/FranRIvas-UGR/Proyecto_Final_DIU/blob/main/responsive.png" width="600" alt="Responsive"/>
 
 ## Conclusión
 
