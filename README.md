@@ -117,6 +117,10 @@ La presencia de dos barras de navegación para redes sociales puede resultar red
 **Falta de elementos visuales para destacar la información más importante y guiar al usuario**:
 La página carece de elementos visuales que atraigan la atención hacia la información clave, lo que dificulta la navegación intuitiva, especialmente para los nuevos visitantes. La utilización de gráficos, iconos y secciones destacadas puede guiar mejor a los usuarios.
 
+
+<img src="https://github.com/FranRIvas-UGR/Proyecto_Final_DIU/blob/main/malla.png" width="800" alt="Malla Receptora"/>
+
+
 ## Análisis de la Experiencia de Usuario
 
 Para comprender mejor la experiencia de los usuarios al interactuar con la página web del CIBM, se realizaron pruebas con usuarios reales. Los principales hallazgos son los siguientes:
