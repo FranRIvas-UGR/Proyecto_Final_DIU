@@ -205,6 +205,8 @@ Desarrollar una versión móvil de la página web para garantizar una experienci
 Asegurar que la página web se ajuste de manera adecuada a diferentes tamaños de pantalla, garantizando una navegación fácil y sin problemas en todos los dispositivos. Las pruebas de usabilidad en múltiples dispositivos son esenciales para verificar esta adaptabilidad.
 Si la respuesta no es fluida, el usuario puede sentirse frustrado y abandonar la página, por lo que es importante que la página web se adapte a cualquier dispositivo.
 
+<img src="https://github.com/FranRIvas-UGR/Proyecto_Final_DIU/blob/main/responsive.png" width="400" alt="Responsive"/>
+
 ## Conclusión
 
 El rediseño de la página web del Centro de Investigación Biomédica (CIBM) busca mejorar la experiencia de usuario y la usabilidad mediante una estructura de navegación simplificada, una mejor legibilidad y accesibilidad del contenido, y la inclusión de elementos visuales relevantes. Al aplicar estos cambios, se espera que los usuarios puedan acceder a la información de manera más intuitiva y eficiente. Aunque tiene aspectos positivos, como el diseño visual atractivo y la estructura de navegación clara, la página web actual presenta áreas de mejora que pueden abordarse con un rediseño centrado en el usuario y en los principios de IU/UX/Usabilidad.
