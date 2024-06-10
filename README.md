@@ -9,7 +9,7 @@ Mi experiencia en IU/UX/Usabilidad ha sido enriquecedora y he adquirido competen
 ### En ejercicios/actividades de clase:
 Durante las actividades y ejercicios de clase, he realizado varias contribuciones de calidad. Por ejemplo, en un ejercicio etnográfico, puede aportar observaciones detalladas sobre el comportamiento de los usuarios al interactuar con una máquina para pagar el autobús de Granada. Estas observaciones me permitieron identificar problemas de usabilidad y proponer soluciones basadas en los principios estudiados en clase, como la simplicidad, la consistencia y la importancia de los elementos y los factores en el diseño de la interfaz.
 
-<img src="https://github.com/FranRIvas-UGR/Proyecto_Final_DIU/blob/main/etno.png" width="400" alt="Etnografía"/>
+<img src="https://github.com/FranRIvas-UGR/Proyecto_Final_DIU/blob/main/etno.png" width="800" alt="Etnografía"/>
 
 Además, en ejercicios de evaluación he realizado análisis exhaustivos de interfaces existentes, identificando fortalezas y debilidades en términos de UX y usabilidad. He utilizado los principios y criterios discutidos en clase para fundamentar mis evaluaciones y proporcionar recomendaciones concretas para mejorar la experiencia del usuario. He destacado la importancia de la accesibilidad, la consistencia y la retroalimentación en el diseño de interfaces, y he aplicado estos conceptos en mis evaluaciones.
 
@@ -18,7 +18,7 @@ He realizado WebSites Checklist, en los que he evaluado la usabilidad y la exper
 He realizado ejercicios de diseño de interfaces, donde he aplicado técnicas de diseño centrado en el usuario, como la creación de personas y escenarios, para comprender las necesidades y expectativas de los usuarios y diseñar interfaces intuitivas y fáciles de usar. También he creado paneles Moodboard y Wireframes para visualizar y comunicar mis ideas de diseño de manera efectiva en distintas páginas web, incluyendo las paletas de colores, tipografías y elementos visuales que reflejan la identidad y el propósito de la interfaz.
 
 Con Figma he aprendido a crear prototipos interactivos y mockups de interfaces de usuario, aplicando los principios de IU/UX/Usabilidad para diseñar interfaces intuitivas y fáciles de usar. He realizado pruebas de usabilidad con usuarios reales para evaluar la eficacia y eficiencia de los prototipos y recopilar datos cualitativos y cuantitativos que me permitan identificar áreas de mejora y realizar ajustes en el diseño para mejorar la experiencia del usuario.
-<img src="https://github.com/FranRIvas-UGR/Proyecto_Final_DIU/blob/main/figma.png" width="400" alt="Figma"/>
+<img src="https://github.com/FranRIvas-UGR/Proyecto_Final_DIU/blob/main/figma.png" width="800" alt="Figma"/>
 
 He analizado exhaustivmente páginas web reales y funcionales, fijándo la atención en la interacción del usuario con las páginas web, por ejemplo, con los mapas de calor de un Eye Tracking. Además de esto, se ha realizado un análisis heurístico de la accesibilidad de una página web, identificando problemas de accesibilidad de diferentes tipos y condiciones, de cara a mejorar notablemente la experiencia de un usuario que tenga alguna discapacidad.
 
