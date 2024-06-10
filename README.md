@@ -39,18 +39,14 @@ Para empezar, he aprendido a identificar y comprender las necesidades y expectat
 
 ![Persona Ficticia](https://github.com/FranRIvas-UGR/DIU/blob/master/P1/Persona%20%26%20User%20Journey%20Map%20%232.pdf)
 
-
-![User Journey Map](https://www.uxpin.com/studio/wp-content/uploads/2016/07/User-Journey-Map-Template-1.png)
-
 Seguidamente, a partir de dichas personas ficticias y sus respectivos User Journey Maps, he adquirido la capacidad de realizar un Case Study, en el que he analizado y evaluado la usabilidad de una interfaz existente. He aplicado los conocimientos teóricos adquiridos en clase para identificar los problemas de usabilidad y proponer soluciones basadas en los principios de IU/UX/Usabilidad. Tomando como base este Case Study, he aprendido a realizar un análisis heurístico de una interfaz, identificando los problemas de usabilidad y proponiendo mejoras basadas en los principios de IU/UX/Usabilidad. Gracias a eso, he sido capaz de hacer una propuesta de valor para una aplicación nueva. Esto conlleva también el conocimiento de el Análisis de Tareas, la arquitectura de la información y la creación de Wireframes y Mockups. Todo ello en un contexto de diseño centrado en el usuario, teniendo en cuenta las necesidades y expectativas de los usuarios.
 
 <div>
     <img src="https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Wireframes/EventosEspeciales.png" width="300" />
     <img src="https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Wireframes/Sesiones.png" width="300" />
-    <img src="https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Wireframes/PaginaPrincipal.png" width="300" height="225/>
+    <img src="https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Wireframes/PaginaPrincipal.png" width="300" height="225"/>
 </div>
 
-![Mockup](https://www.uxpin.com/studio/wp-content/uploads/2016/07/Mockup-Template-1.png)
 
 Me he metido de lleno en la creación de Layouts, esto es el Prototipado y el Mockup de la app. He aprendido a utilizar herramientas como Figma para crear prototipos interactivos y mockups de interfaces de usuario. He aplicado los principios de IU/UX/Usabilidad para diseñar interfaces intuitivas y fáciles de usar, teniendo en cuenta las necesidades y expectativas de los usuarios. Además, he aprendido a realizar pruebas de usabilidad con usuarios reales para evaluar la eficacia y eficiencia de los prototipos y recopilar datos cualitativos y cuantitativos que me permitan identificar áreas de mejora y realizar ajustes en el diseño para mejorar la experiencia del usuario. He aprendido todo lo que es el diseño de cada una de las pantallas de una app, desde lo que es la apariencia visual hasta la interacción con el usuario.
 <div>
@@ -66,26 +62,21 @@ Finalmente, he aprendido a realizar un A/B testing, en el que he comparado dos v
 
 
 ### Otras aportaciones:
-Además de las contribuciones realizadas en el ámbito de la asignatura, también he tenido la oportunidad de aplicar mis conocimientos de IU/UX/Usabilidad en otros ámbitos. Por ejemplo, en un proyecto profesional externo, participé en el diseño de una plataforma web para la gestión de eventos. Utilicé los principios de UX y usabilidad para crear un diseño intuitivo y fácil de usar, teniendo en cuenta las necesidades y expectativas de los usuarios.
-
-Mi contribución en este proyecto fue valorada por la calidad del diseño propuesto y por mi capacidad para aplicar los principios de IU/UX/Usabilidad de manera efectiva. También recibí comentarios positivos sobre mi capacidad para adaptarme a los requisitos del proyecto y trabajar en equipo con otros profesionales.
-
-En resumen, mi experiencia en IU/UX/Usabilidad ha sido enriquecedora y he adquirido competencias importantes a lo largo de la asignatura. Mis contribuciones y aportaciones en ejercicios, actividades de clase y prácticas han sido valoradas positivamente por mi capacidad para aplicar los conocimientos teóricos y justificar mis argumentos basados en los principios de UX y usabilidad.
+Además de las contribuciones realizadas en el ámbito de la asignatura, estudiar diseño de interfaces me ha permitido identificar patrones en los momentos del día a día en los que interactuamos con interfaces, como aplicaciones móviles, páginas web y sistemas de información. He aprendido a identificar problemas de usabilidad y a proponer soluciones basadas en los principios de IU/UX/Usabilidad, lo que me ha permitido mejorar mi capacidad para diseñar interfaces centradas en el usuario y mejorar la experiencia del usuario. He aplicado los conocimientos adquiridos en clase para analizar y evaluar interfaces existentes, identificando problemas de usabilidad y proponiendo mejoras basadas en los principios de IU/UX/Usabilidad. He aprendido a diseñar interfaces intuitivas y fáciles de usar, teniendo en cuenta las necesidades y expectativas de los usuarios, y a comunicar de manera efectiva las mejoras propuestas y justificarlas en función de los principios de IU/UX/Usabilidad.
 
 ## PARTE II: Caso de estudio: Evaluación de Página Web de Investigación
 
-En esta parte del trabajo final, se propone realizar una evaluación de la página web de un centro de investigación de la Universidad de Granada (UGR) y compararla con un centro de investigación similar de otra universidad. A cont
-inuación, presentaré mi propuesta de caso de estudio:
+En esta parte del trabajo final, se propone realizar una evaluación de la página web de un centro de investigación de la Universidad de Granada (UGR) y compararla con un centro de investigación similar de otra universidad. A continuación, presentaré mi propuesta de caso de estudio:
 
 ### Página web de investigación seleccionada:
 Centro de Investigación Biomédica (CIBM) de la UGR - https://cibm.ugr.es/
 
-<img src="https://github.com/FranRIvas-UGR/Proyecto_Final_DIU/blob/main/web1.png" width="600" height="auto" alt="Página Web CIB Granada"/>
+<img src="https://github.com/FranRIvas-UGR/Proyecto_Final_DIU/blob/main/web1.png" width="900" height="auto" alt="Página Web CIB Granada"/>
 
 ### Página web de otro centro de investigación similar:
 Instituto de Biomedicina de Sevilla (IBiS) de la Universidad de Sevilla - https://www.ibis-sevilla.es/
 
-<img src="https://github.com/FranRIvas-UGR/Proyecto_Final_DIU/blob/main/web2.png" width="600" height="auto" alt="Página Web IBiS"/>
+<img src="https://github.com/FranRIvas-UGR/Proyecto_Final_DIU/blob/main/web2.png" width="900" height="auto" alt="Página Web IBiS"/>
 
 # Propuesta de Rediseño de la Página Web del Centro de Investigación Biomédica (CIBM)
 
@@ -168,23 +159,23 @@ Para comparar la página web del CIBM con la del Instituto de Biomedicina de Sev
 El objetivo principal del rediseño de la página web del CIBM es mejorar la experiencia de usuario y la usabilidad, facilitando el acceso a la información relevante y promoviendo una navegación intuitiva. Los objetivos específicos son los siguientes:
 
 **Simplificar la estructura de navegación**:
-Facilitar la búsqueda de información al reducir la cantidad de elementos en el menú de navegación y organizarlos en categorías claras. Un menú de navegación bien estructurado reduce la carga cognitiva y mejora la eficiencia de la navegación.
+Facilitar la búsqueda de información al reducir la cantidad de elementos en el menú de navegación y organizarlos en categorías claras. Un menú de navegación bien estructurado reduce la carga cognitiva y mejora la eficiencia de la navegación. Además es importante que el usuario pueda encontrar la información que busca de manera rápida y sencilla.
 
 **Mejorar la legibilidad y accesibilidad del contenido**:
-Garantizar una experiencia de usuario óptima mediante el uso de diseños limpios y espacios en blanco para mejorar la legibilidad. La accesibilidad también debe ser priorizada, asegurando que todos los usuarios, independientemente de sus habilidades, puedan interactuar con la página.
+Garantizar una experiencia de usuario óptima mediante el uso de diseños limpios y espacios en blanco para mejorar la legibilidad. La accesibilidad también debe ser priorizada, asegurando que todos los usuarios, independientemente de sus habilidades, puedan interactuar con la página. Cualquier persona que tenga algún tipo de impedimento físico o cognitivo debe poder acceder a la información de manera sencilla.
 
 **Incluir elementos visuales relevantes**:
-Utilizar imágenes y gráficos para resaltar la información clave y guiar al usuario a través del contenido de manera intuitiva. Elementos visuales bien diseñados no solo mejoran la estética, sino que también facilitan la comprensión de la información.
+Utilizar imágenes y gráficos para resaltar la información clave y guiar al usuario a través del contenido de manera intuitiva. Elementos visuales bien diseñados no solo mejoran la estética, sino que también facilitan la comprensión de la información. Los usuarios se fijan en las imágenes y gráficos antes que en el texto, por lo que es importante utilizarlos de manera efectiva para comunicar mensajes importantes.
 
 ### Propuesta de Diseño
 
 #### Diseño de la Estructura de Navegación
 
 **Reducir el número de elementos en el menú de navegación**:
-Simplificar el menú principal para evitar la sobrecarga de información, utilizando un diseño de menú desplegable que agrupe secciones relacionadas en categorías claras. Esto permite una navegación más intuitiva y eficiente.
+Simplificar el menú principal para evitar la sobrecarga de información, utilizando un diseño de menú desplegable que agrupe secciones relacionadas en categorías claras. Esto permite una navegación más intuitiva y eficiente. Además, se debe incluir una barra de búsqueda para facilitar la localización de información específica. Lo usuarios deben poder encontrar la información que buscan de manera rápida y sencilla.
 
 **Agrupar secciones relacionadas en categorías claras**:
-Utilizar un diseño de menú desplegable para facilitar la navegación y acceso rápido a las secciones más importantes. Por ejemplo, las secciones podrían agruparse bajo categorías como "Investigaciones", "Publicaciones", "Eventos" y "Contacto".
+Utilizar un diseño de menú desplegable para facilitar la navegación y acceso rápido a las secciones más importantes. Por ejemplo, las secciones podrían agruparse bajo categorías como "Investigaciones", "Publicaciones", "Eventos" y "Contacto". Esto hará que la información sea más accesible y fácil de encontrar para los usuarios, por lo que se sentirán más cómodos y satisfechos.
 
 #### Diseño Visual y Elementos Visuales
 
@@ -192,24 +183,25 @@ Utilizar un diseño de menú desplegable para facilitar la navegación y acceso 
 Mantener una paleta de colores que refleje la temática biomédica sin sobrecargar la página. Utilizar elementos visuales como iconos y gráficos para resaltar la información clave. Se han elegido los colores azul, verde y blanco porque son los que están más relacionados con el tema de la medicina en nuestro día a día, transmitiéndo ese tema a quien entre en la página.
 
 **Utilizar imágenes y gráficos relevantes**:
-Incorporar imágenes de alta calidad y gráficos informativos que apoyen el contenido textual y guíen la navegación del usuario. Infografías y diagramas pueden ser particularmente útiles para explicar conceptos complejos.
+Incorporar imágenes de alta calidad y gráficos informativos que apoyen el contenido textual y guíen la navegación del usuario. Infografías y diagramas pueden ser particularmente útiles para explicar conceptos complejos. Si un usuario ve una imagen o un gráfico, es más probable que se interese por el contenido y lo lea, por lo que es importante utilizarlos de manera efectiva para mejorar la experiencia del usuario. 
 
 <img src="https://github.com/FranRIvas-UGR/Proyecto_Final_DIU/blob/main/moodboard.png" width="800" alt="Moodboard"/>
 
 **Utilizar espacios en blanco y diseños limpios**:
-Mejorar la legibilidad y la comprensión de la información mediante el uso de espacios en blanco y diseños minimalistas. Un diseño despejado reduce la carga cognitiva y mejora la experiencia de lectura.
+Mejorar la legibilidad y la comprensión de la información mediante el uso de espacios en blanco y diseños minimalistas. Un diseño despejado reduce la carga cognitiva y mejora la experiencia de lectura. Los diseños limpios son muy importantes de cara al usuario, ya que le facilitan la lectura y la comprensión de la información.
 
 #### Diseño Responsive
 
 **Crear una versión móvil adaptativa**:
-Desarrollar una versión móvil de la página web para garantizar una experiencia óptima en dispositivos móviles, utilizando un diseño de respuesta fluida que se adapte al tamaño de pantalla. Esto incluye optimizar las imágenes y simplificar la navegación para pantallas más pequeñas.
+Desarrollar una versión móvil de la página web para garantizar una experiencia óptima en dispositivos móviles, utilizando un diseño de respuesta fluida que se adapte al tamaño de pantalla. Esto incluye optimizar las imágenes y simplificar la navegación para pantallas más pequeñas. Hoy en día, la mayoría de las personas acceden a la web a través de sus dispositivos móviles, por lo que es esencial que la página web sea accesible y fácil de usar en estos dispositivos.
 
 **Utilizar un diseño de respuesta fluida**:
 Asegurar que la página web se ajuste de manera adecuada a diferentes tamaños de pantalla, garantizando una navegación fácil y sin problemas en todos los dispositivos. Las pruebas de usabilidad en múltiples dispositivos son esenciales para verificar esta adaptabilidad.
+Si la respuesta no es fluida, el usuario puede sentirse frustrado y abandonar la página, por lo que es importante que la página web se adapte a cualquier dispositivo.
 
 ## Conclusión
 
-El rediseño de la página web del Centro de Investigación Biomédica (CIBM) busca mejorar la experiencia de usuario y la usabilidad mediante una estructura de navegación simplificada, una mejor legibilidad y accesibilidad del contenido, y la inclusión de elementos visuales relevantes. Al aplicar estos cambios, se espera que los usuarios puedan acceder a la información de manera más intuitiva y eficiente.
+El rediseño de la página web del Centro de Investigación Biomédica (CIBM) busca mejorar la experiencia de usuario y la usabilidad mediante una estructura de navegación simplificada, una mejor legibilidad y accesibilidad del contenido, y la inclusión de elementos visuales relevantes. Al aplicar estos cambios, se espera que los usuarios puedan acceder a la información de manera más intuitiva y eficiente. Aunque tiene aspectos positivos, como el diseño visual atractivo y la estructura de navegación clara, la página web actual presenta áreas de mejora que pueden abordarse con un rediseño centrado en el usuario y en los principios de IU/UX/Usabilidad.
 
 ### Conclusiones y Autoevaluación
 En este caso de estudio, he aplicado los conocimientos y principios de IU/UX/Usabilidad para analizar y proponer mejoras en la página web del Centro de Investigación Biomédica (CIBM) de la Universidad de Granada. A través del análisis realizado, identifiqué áreas de mejora en el diseño y usabilidad de la página web existente y propuse una serie de cambios para abordar estos problemas.
