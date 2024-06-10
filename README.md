@@ -162,12 +162,12 @@ Utilizar un diseño de menú desplegable para facilitar la navegación y acceso 
 #### Diseño Visual y Elementos Visuales
 
 **Utilizar una paleta de colores y elementos visuales coherentes**:
-Mantener una paleta de colores que refleje la temática biomédica sin sobrecargar la página. Utilizar elementos visuales como iconos y gráficos para resaltar la información clave.
-
-<img src="https://github.com/FranRIvas-UGR/Proyecto_Final_DIU/blob/main/moodboard.png" width="800" alt="Moodboard"/>
+Mantener una paleta de colores que refleje la temática biomédica sin sobrecargar la página. Utilizar elementos visuales como iconos y gráficos para resaltar la información clave. Se han elegido los colores azul, verde y blanco porque son los que están más relacionados con el tema de la medicina en nuestro día a día, transmitiéndo ese tema a quien entre en la página.
 
 **Utilizar imágenes y gráficos relevantes**:
 Incorporar imágenes de alta calidad y gráficos informativos que apoyen el contenido textual y guíen la navegación del usuario. Infografías y diagramas pueden ser particularmente útiles para explicar conceptos complejos.
+
+<img src="https://github.com/FranRIvas-UGR/Proyecto_Final_DIU/blob/main/moodboard.png" width="800" alt="Moodboard"/>
 
 **Utilizar espacios en blanco y diseños limpios**:
 Mejorar la legibilidad y la comprensión de la información mediante el uso de espacios en blanco y diseños minimalistas. Un diseño despejado reduce la carga cognitiva y mejora la experiencia de lectura.
